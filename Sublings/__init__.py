@@ -16,7 +16,7 @@ class SublingsPlugin(PluginClass):
     plugin_info = {
         'name': 'Sublings',
         'description': 'Shows sibling pages of the current page.',
-        'author': 'Nikolay',
+        'author': 'Nick',
     }
 
 
